@@ -1,2 +1,2 @@
 # ML100-Days
-The path to data science
+My path to data science
